@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'font';
+    src: url('font.ttf');
+
+}
+
+
+tml, body {
+    margin: 0;
+}
+canvas {
+    display: block;
+}
